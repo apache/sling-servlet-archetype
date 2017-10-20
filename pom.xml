@@ -35,9 +35,9 @@
     <description>Maven archetype for Sling Servlets</description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/tooling/maven/archetypes/servlet</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/tooling/maven/archetypes/servlet</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/tooling/maven/archetypes/servlet</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-servlet-archetype.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-servlet-archetype.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-servlet-archetype.git</url>
     </scm>
 
     <build>
