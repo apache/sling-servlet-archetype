@@ -1,0 +1,9 @@
+github:
+  description: "Apache Sling Servlets Archetype"
+  homepage: "https://sling.apache.org/"
+  labels:
+    - sling
+    - java
+    - servlets
+    - maven
+    - archetype
