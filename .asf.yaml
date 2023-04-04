@@ -2,8 +2,18 @@ github:
   description: "Apache Sling Servlets Archetype"
   homepage: "https://sling.apache.org/"
   labels:
-    - sling
-    - java
-    - servlets
-    - maven
-    - archetype
+  - "sling"
+  - "java"
+  - "servlets"
+  - "maven"
+  - "archetype"
+  autolink_jira:
+  - "SLING"
+  - "OAK"
+  - "JCR"
+  - "JCRVLT"
+  - "INFRA"
+  - "FELIX"
+  - "MNG"
+notifications:
+  jira_options: "link"
