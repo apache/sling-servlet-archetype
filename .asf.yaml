@@ -1,12 +1,10 @@
 github:
-  description: "Apache Sling Servlets Archetype"
+  description: "Apache Sling Servlet Archetype (deprecated)"
   homepage: "https://sling.apache.org/"
   labels:
-  - "sling"
   - "java"
-  - "servlets"
-  - "maven"
-  - "archetype"
+  - "sling"
+  - "deprecated"
   autolink_jira:
   - "SLING"
   - "OAK"
